@@ -1,0 +1,7 @@
+Incredients:
+- 1 frozen pizza
+
+Cooking instructions:
+1) Remove plastic film, if the pizza has one
+2) Bake at 200°C for 16-20min
+3) Eat
